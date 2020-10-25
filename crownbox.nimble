@@ -1,7 +1,7 @@
 # Package
 
 version       = "0.1.0"
-author        = "IDF"
+author        = "lum"
 description   = "A single binary providing basic coreutils"
 license       = "MIT"
 srcDir        = "src"
